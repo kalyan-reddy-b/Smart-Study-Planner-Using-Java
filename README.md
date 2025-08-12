@@ -105,4 +105,3 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ## 🧑‍💻 Author
 **Bhumireddy Kalyan Kumar Reddy**  
 💌 Email: bhumireddykalyan4@gmail.com  
-🌐 GitHub: [Your GitHub Profile Link]
